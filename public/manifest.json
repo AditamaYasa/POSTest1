@@ -10,8 +10,8 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/logo.png",
-      "sizes": "1024x1024",
+      "src": "/logo-pos.png",
+      "sizes": "500x500",
       "type": "image/png"
     }
   ],
